@@ -11,4 +11,4 @@ This project proposes to design an intelligent embedded system for the detection
 
 ![image alt](https://github.com/emmanuelwilliam/Smart_Home_sys_grp28/blob/2bee846b09258123fa19e558efcbd21646478303/im6.jpg)
 
-![image alt](https://github.com/emmanuelwilliam/Smart_Home_sys_grp28/blob/62b15212529ee24f5cf2cdb4cc9d621b1dd21138/vid1.mp4)
+![image alt](https://github.com/emmanuelwilliam/Smart_Home_sys_grp28/blob/12c542e39c73cf6b20abf733dafb554bbcae210b/im4.jpg)
